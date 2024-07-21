@@ -14,18 +14,15 @@ This is a Tic-Tac-Toe web application built with HTML, CSS, JavaScript and jQuer
 <b>Usage</b></br>
 <b>Multiplayer Mode</b></br>
 1. Open the application in your web browser.</br>
-2. Enter the names of the two players.</br>
-3. Player 1 will be assigned the "X" symbol, and Player 2 will be assigned the "O" symbol.</br>
-4. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.</br>
-5. If all spaces on the board are filled and no player has three in a row, the game is a tie.</br>
+2. Player 1 will be assigned the "X" symbol, and Player 2 will be assigned the "O" symbol.</br>
+3. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.</br>
+4. If all spaces on the board are filled and no player has three in a row, the game is a tie.</br>
 
 <b>Single Player Mode</b></br>
 1. Open the application in your web browser.</br>
-2. Select the "Single Player" option.</br>
-3. Enter your name.</br>
-4. You will be assigned the "X" symbol, and the AI will be assigned the "O" symbol.</br>
-5. The game follows the same rules as the multiplayer mode, but the AI will make a move after each of your turns.</br>
-6. Try to beat the AI by getting three in a row before it does!</br>
+2. You will be assigned the "X" symbol, and the AI will be assigned the "O" symbol.</br>
+3. The game follows the same rules as the multiplayer mode, but the AI will make a move after each of your turns.</br>
+4. Try to beat the AI by getting three in a row before it does!</br>
 
 <b>Contributing</b></br>
 Contributions to this project are welcome. To contribute:</br>
