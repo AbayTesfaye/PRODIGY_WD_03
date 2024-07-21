@@ -1,0 +1,35 @@
+body{
+    background:#2980b9;
+    font-family: 'Indie Flower', cursive;
+  }
+  .row{
+    margin:10vh auto 0;
+    width:300px; height:300px;
+  }
+  .col-xs-4{
+    border:solid #2980b9 2px;
+    height:33.33%;
+    background:#fff;
+    text-align:center;
+    padding-top:20px;
+  }
+  .fa-circle-o{color:#2ecc71;}
+  .fa-times{color:#e74c3c;}
+  .btn{background:#f1c40f;color:#e74c3c;font-size:1.5em;font-weight:bold;margin:5px;}
+  .btn:hover,.btn:focus,.btn:active{background:#f39c12;color:#ecf0f1;}
+  .text{
+    position:fixed;
+    top:15%;
+    margin:0 auto;
+    left:0;right:0;
+    width:300px;
+    text-align:center;
+    cursor:default;
+  }
+  h1{
+    color:#2c3e50;
+    font-size:84px;
+  }
+  .buttons{
+    text-align:center;
+  }
